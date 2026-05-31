@@ -12,6 +12,21 @@ Realizar consultas SQL para análise de desempenho do clube, utilizando funçõe
 - MySQL Workbench
 - GitHub
 
+## Estrutura
+Projeto_Vitoria_sql/
+│
+├── README.md
+├── consultas/
+│   ├── aproveitamento_vitoria.sql
+│   ├── diferencaLider_.sql
+│   ├── media_gols_pontos_sem_derrota.sql
+│   ├── pontos_vitoria.sql
+│   └── total_vitoria.sql
+│
+└── imagens/
+    └── tabela.jpeg
+
+
 ## Consultas Realizadas
 
 - Média de gols por partida
